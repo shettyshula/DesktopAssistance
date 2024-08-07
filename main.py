@@ -36,7 +36,9 @@ def takeCommand():
             print("Say that again please...")
             return "None"
         return query
-takeCommand()
+    
+text=takeCommand()
+speak(text)
     
     
     
