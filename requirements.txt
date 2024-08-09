@@ -1,4 +1,8 @@
 SpeechRecognition
 pyttsx3
 PyAudio
-webbrowser
+wikipedia
+streamlit
+pipwin
+gTTs
+google-generativeai
